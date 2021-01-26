@@ -18,8 +18,12 @@ const rootController = require('./routes/index');
 const catsController = require('./routes/cats');
 const dogsController = require('./routes/dogs');
 const catsAndDogsController = require('./routes/cats_and_dogs');
+const seanController = require('./routes/sean');
+const greetController = require('./routes/greet');
 
 app.use('/', rootController);
 app.use('/cats', catsController);
 app.use('/dogs', dogsController);
 app.use('/catsanddogs', catsAndDogsController);
+app.use('/sean/', seanController);
+app.use('/greet', greetController);
