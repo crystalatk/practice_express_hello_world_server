@@ -8,4 +8,6 @@ What I learned:
 - how to respond to the browser with html elements
 - how to use the request from the browser (req.params) to influence the response
 
+This repo is a sample of how I want to set up folders and js for my next projects.
+
 I still have more to learn about using templates and integrating this with a front-end.
