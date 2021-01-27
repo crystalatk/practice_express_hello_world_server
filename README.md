@@ -1,5 +1,5 @@
 # Practice: Express Server
-##In this exercise, I create a server using Node and Express.  
+## In this exercise, I create a server using Node and Express.  
 The server passes simple responses to the browser based upon the web address.
 
 What I learned:
